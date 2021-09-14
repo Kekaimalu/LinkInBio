@@ -1,3 +1,3 @@
 # LinkInBio
 A Link in Bio
-https://Kekaimalu
+https://Kekaimalu.github.io/linkinbio
