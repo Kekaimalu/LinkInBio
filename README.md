@@ -1,3 +1,3 @@
 # LinkInBio
 A Link in Bio
-https://Kekaimalu.github.io/linkinbio
+https://Kekaimalu.github.io/medialiteracy
